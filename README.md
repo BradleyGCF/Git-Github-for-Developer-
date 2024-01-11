@@ -1,6 +1,5 @@
 # Git y GitHub
 
-## Comenzando a usar Git
 
 ### Comandos básicos
 
